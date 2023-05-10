@@ -1,0 +1,5 @@
+https://www.shellhacks.com/git-bash-unable-to-get-local-issuer-certificate/
+
+certificaat tijdelijk uitgeschakeld
+$ git config --global http.sslVerify false
+
